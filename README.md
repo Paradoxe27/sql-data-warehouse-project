@@ -4,7 +4,7 @@ This is a modern DataWare house built with SQL Server that involve ETL processes
 ---
 
 ## Project Requirements
-**Objectives**
+**Objectives:**  
 Develop a modern Data Warehouse using SQL Server to consolidate Sales data, enabling analytical reporting and informed decision-making.
 
 #### **Specifications**
@@ -38,6 +38,6 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 #### **About Me**
 
-Hi there! I'm **Talla Mathieu**. I'm an IT professional and Data Passionate on a mission to develop&share knowledge in an enjoyable and professional way!
+Hi there! I'm **Talla Mathieu**. I'm an IT professional and a  Data Passionate on a mission to develop&share knowledge in an enjoyable and professional way!
 
 ---
