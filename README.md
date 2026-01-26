@@ -1,8 +1,11 @@
-# sql-data-warehouse-project
-A modern DataWare house built with SQL Server that involve ETL processes, Data modeling and analytics
-Here is the full transcription of the text contained in your uploaded images, organized by section.
+# Data Warehouse Analytics Project
+This is a modern DataWare house built with SQL Server that involve ETL processes, Data modeling and analytics, Designed to provide one of the best insights to the specified business in order to make the best decisions based on the datas.
 
 ---
+
+## Project Requirements
+**Objectives**
+Develop a modern Data Warehouse using SQL Server to consolidate Sales data, enabling analytical reporting and informed decision-making.
 
 #### **Specifications**
 
