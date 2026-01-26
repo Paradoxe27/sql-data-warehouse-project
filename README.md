@@ -4,24 +4,6 @@ Here is the full transcription of the text contained in your uploaded images, or
 
 ---
 
-
-
-
-
-
-**Glossary of Category Patterns**
-
-| Pattern | Meaning | Example(s) |
-| --- | --- | --- |
-| `dim_` | Dimension table | `dim_customer`, `dim_product` |
-| `fact_` | Fact table | `fact_sales` |
-| `agg_` | Aggregated table | `agg_customers`, `agg_sales_monthly` |
-
----
-
-
----
-
 #### **Specifications**
 
 * **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
